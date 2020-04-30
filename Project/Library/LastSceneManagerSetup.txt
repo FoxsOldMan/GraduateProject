@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/FinalBossBattleScene.unity
+  isLoaded: 1
+  isActive: 1

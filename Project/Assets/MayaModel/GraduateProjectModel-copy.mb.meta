@@ -1,0 +1,700 @@
+fileFormatVersion: 2
+guid: 32e23e0b92656514f8a063a6d4b3fc97
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: Chest
+    100004: FullBodySkin
+    100006: //RootNode
+    100008: Head
+    100010: Head 1
+    100012: HipLower
+    100014: HipUpper
+    100016: LeftAnkle
+    100018: LeftArm
+    100020: LeftElbow
+    100022: LeftFoot
+    100024: LeftFoot 1
+    100026: LeftHand
+    100028: LeftHand 1
+    100030: LeftKnee
+    100032: LeftLeg
+    100034: LeftLowerArm
+    100036: LeftLowerLeg
+    100038: LeftShoulder
+    100040: LeftUpperArm
+    100042: LeftUpperLeg
+    100044: LeftWrist
+    100046: Neck
+    100048: RightAnkle
+    100050: RightArm
+    100052: RightElbow
+    100054: RightFoot
+    100056: RightFoot 1
+    100058: RIghtHand
+    100060: RightHand
+    100062: RightKnee
+    100064: RightLeg
+    100066: RightLoweArm
+    100068: RightLowerLeg
+    100070: RightShoulder
+    100072: RightUpperArm
+    100074: RightUpperLeg
+    100076: RightWrist
+    100078: Waist
+    400000: Body
+    400002: Chest
+    400004: FullBodySkin
+    400006: //RootNode
+    400008: Head
+    400010: Head 1
+    400012: HipLower
+    400014: HipUpper
+    400016: LeftAnkle
+    400018: LeftArm
+    400020: LeftElbow
+    400022: LeftFoot
+    400024: LeftFoot 1
+    400026: LeftHand
+    400028: LeftHand 1
+    400030: LeftKnee
+    400032: LeftLeg
+    400034: LeftLowerArm
+    400036: LeftLowerLeg
+    400038: LeftShoulder
+    400040: LeftUpperArm
+    400042: LeftUpperLeg
+    400044: LeftWrist
+    400046: Neck
+    400048: RightAnkle
+    400050: RightArm
+    400052: RightElbow
+    400054: RightFoot
+    400056: RightFoot 1
+    400058: RIghtHand
+    400060: RightHand
+    400062: RightKnee
+    400064: RightLeg
+    400066: RightLoweArm
+    400068: RightLowerLeg
+    400070: RightShoulder
+    400072: RightUpperArm
+    400074: RightUpperLeg
+    400076: RightWrist
+    400078: Waist
+    2100000: lambert1
+    4300000: Head
+    4300002: Body
+    4300004: LeftUpperArm
+    4300006: LeftLowerArm
+    4300008: LeftHand
+    4300010: RightUpperArm
+    4300012: RightLoweArm
+    4300014: RIghtHand
+    4300016: LeftUpperLeg
+    4300018: LeftLowerLeg
+    4300020: LeftFoot
+    4300022: RightUpperLeg
+    4300024: RightLowerLeg
+    4300026: RightFoot
+    7400000: Forward@copy
+    7400002: Backward@copy
+    7400004: Idle@copy
+    7400006: HandAttack@copy
+    7400008: BreathOfFire@copy
+    7400010: WhirlSlam@copy
+    7400012: WhirlSlam
+    9500000: //RootNode
+    13700000: Body
+    13700002: Head
+    13700004: LeftFoot
+    13700006: LeftHand
+    13700008: LeftLowerArm
+    13700010: LeftLowerLeg
+    13700012: LeftUpperArm
+    13700014: LeftUpperLeg
+    13700016: RightFoot
+    13700018: RIghtHand
+    13700020: RightLoweArm
+    13700022: RightLowerLeg
+    13700024: RightUpperArm
+    13700026: RightUpperLeg
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Forward@copy
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 55
+    - serializedVersion: 16
+      name: Backward@copy
+      takeName: Take 001
+      firstFrame: 180
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 55
+    - serializedVersion: 16
+      name: Idle@copy
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FullBodySkin
+        weight: 1
+      - path: FullBodySkin/Body
+        weight: 1
+      - path: FullBodySkin/Head
+        weight: 1
+      - path: FullBodySkin/LeftFoot
+        weight: 1
+      - path: FullBodySkin/LeftHand
+        weight: 1
+      - path: FullBodySkin/LeftLowerArm
+        weight: 1
+      - path: FullBodySkin/LeftLowerLeg
+        weight: 1
+      - path: FullBodySkin/LeftUpperArm
+        weight: 1
+      - path: FullBodySkin/LeftUpperLeg
+        weight: 1
+      - path: FullBodySkin/RightFoot
+        weight: 1
+      - path: FullBodySkin/RIghtHand
+        weight: 1
+      - path: FullBodySkin/RightLoweArm
+        weight: 1
+      - path: FullBodySkin/RightLowerLeg
+        weight: 1
+      - path: FullBodySkin/RightUpperArm
+        weight: 1
+      - path: FullBodySkin/RightUpperLeg
+        weight: 1
+      - path: HipUpper
+        weight: 1
+      - path: HipUpper/HipLower
+        weight: 1
+      - path: HipUpper/HipLower/LeftLeg
+        weight: 1
+      - path: HipUpper/HipLower/LeftLeg/LeftKnee
+        weight: 1
+      - path: HipUpper/HipLower/LeftLeg/LeftKnee/LeftAnkle
+        weight: 1
+      - path: HipUpper/HipLower/LeftLeg/LeftKnee/LeftAnkle/LeftFoot 1
+        weight: 1
+      - path: HipUpper/HipLower/RightLeg
+        weight: 1
+      - path: HipUpper/HipLower/RightLeg/RightKnee
+        weight: 1
+      - path: HipUpper/HipLower/RightLeg/RightKnee/RightAnkle
+        weight: 1
+      - path: HipUpper/HipLower/RightLeg/RightKnee/RightAnkle/RightFoot 1
+        weight: 1
+      - path: HipUpper/Waist
+        weight: 1
+      - path: HipUpper/Waist/Chest
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder/LeftArm/LeftElbow
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder/LeftArm/LeftElbow/LeftWrist
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder/LeftArm/LeftElbow/LeftWrist/LeftHand
+          1
+        weight: 1
+      - path: HipUpper/Waist/Chest/Neck
+        weight: 1
+      - path: HipUpper/Waist/Chest/Neck/Head 1
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder/RightArm/RightElbow
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder/RightArm/RightElbow/RightWrist
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder/RightArm/RightElbow/RightWrist/RightHand
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 55
+    - serializedVersion: 16
+      name: HandAttack@copy
+      takeName: Take 001
+      firstFrame: 240
+      lastFrame: 330
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FullBodySkin
+        weight: 1
+      - path: FullBodySkin/Body
+        weight: 1
+      - path: FullBodySkin/Head
+        weight: 1
+      - path: FullBodySkin/LeftFoot
+        weight: 1
+      - path: FullBodySkin/LeftHand
+        weight: 1
+      - path: FullBodySkin/LeftLowerArm
+        weight: 1
+      - path: FullBodySkin/LeftLowerLeg
+        weight: 1
+      - path: FullBodySkin/LeftUpperArm
+        weight: 1
+      - path: FullBodySkin/LeftUpperLeg
+        weight: 1
+      - path: FullBodySkin/RightFoot
+        weight: 1
+      - path: FullBodySkin/RIghtHand
+        weight: 1
+      - path: FullBodySkin/RightLoweArm
+        weight: 1
+      - path: FullBodySkin/RightLowerLeg
+        weight: 1
+      - path: FullBodySkin/RightUpperArm
+        weight: 1
+      - path: FullBodySkin/RightUpperLeg
+        weight: 1
+      - path: HipUpper
+        weight: 1
+      - path: HipUpper/HipLower
+        weight: 1
+      - path: HipUpper/HipLower/LeftLeg
+        weight: 1
+      - path: HipUpper/HipLower/LeftLeg/LeftKnee
+        weight: 1
+      - path: HipUpper/HipLower/LeftLeg/LeftKnee/LeftAnkle
+        weight: 1
+      - path: HipUpper/HipLower/LeftLeg/LeftKnee/LeftAnkle/LeftFoot 1
+        weight: 1
+      - path: HipUpper/HipLower/RightLeg
+        weight: 1
+      - path: HipUpper/HipLower/RightLeg/RightKnee
+        weight: 1
+      - path: HipUpper/HipLower/RightLeg/RightKnee/RightAnkle
+        weight: 1
+      - path: HipUpper/HipLower/RightLeg/RightKnee/RightAnkle/RightFoot 1
+        weight: 1
+      - path: HipUpper/Waist
+        weight: 1
+      - path: HipUpper/Waist/Chest
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder/LeftArm/LeftElbow
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder/LeftArm/LeftElbow/LeftWrist
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder/LeftArm/LeftElbow/LeftWrist/LeftHand
+          1
+        weight: 1
+      - path: HipUpper/Waist/Chest/Neck
+        weight: 1
+      - path: HipUpper/Waist/Chest/Neck/Head 1
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder/RightArm/RightElbow
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder/RightArm/RightElbow/RightWrist
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder/RightArm/RightElbow/RightWrist/RightHand
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 55
+    - serializedVersion: 16
+      name: BreathOfFire@copy
+      takeName: Take 001
+      firstFrame: 330
+      lastFrame: 375
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FullBodySkin
+        weight: 1
+      - path: FullBodySkin/Body
+        weight: 1
+      - path: FullBodySkin/Head
+        weight: 1
+      - path: FullBodySkin/LeftFoot
+        weight: 1
+      - path: FullBodySkin/LeftHand
+        weight: 1
+      - path: FullBodySkin/LeftLowerArm
+        weight: 1
+      - path: FullBodySkin/LeftLowerLeg
+        weight: 1
+      - path: FullBodySkin/LeftUpperArm
+        weight: 1
+      - path: FullBodySkin/LeftUpperLeg
+        weight: 1
+      - path: FullBodySkin/RightFoot
+        weight: 1
+      - path: FullBodySkin/RIghtHand
+        weight: 1
+      - path: FullBodySkin/RightLoweArm
+        weight: 1
+      - path: FullBodySkin/RightLowerLeg
+        weight: 1
+      - path: FullBodySkin/RightUpperArm
+        weight: 1
+      - path: FullBodySkin/RightUpperLeg
+        weight: 1
+      - path: HipUpper
+        weight: 1
+      - path: HipUpper/HipLower
+        weight: 1
+      - path: HipUpper/HipLower/LeftLeg
+        weight: 1
+      - path: HipUpper/HipLower/LeftLeg/LeftKnee
+        weight: 1
+      - path: HipUpper/HipLower/LeftLeg/LeftKnee/LeftAnkle
+        weight: 1
+      - path: HipUpper/HipLower/LeftLeg/LeftKnee/LeftAnkle/LeftFoot 1
+        weight: 1
+      - path: HipUpper/HipLower/RightLeg
+        weight: 1
+      - path: HipUpper/HipLower/RightLeg/RightKnee
+        weight: 1
+      - path: HipUpper/HipLower/RightLeg/RightKnee/RightAnkle
+        weight: 1
+      - path: HipUpper/HipLower/RightLeg/RightKnee/RightAnkle/RightFoot 1
+        weight: 1
+      - path: HipUpper/Waist
+        weight: 1
+      - path: HipUpper/Waist/Chest
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder/LeftArm/LeftElbow
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder/LeftArm/LeftElbow/LeftWrist
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder/LeftArm/LeftElbow/LeftWrist/LeftHand
+          1
+        weight: 1
+      - path: HipUpper/Waist/Chest/Neck
+        weight: 1
+      - path: HipUpper/Waist/Chest/Neck/Head 1
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder/RightArm/RightElbow
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder/RightArm/RightElbow/RightWrist
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder/RightArm/RightElbow/RightWrist/RightHand
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 55
+    - serializedVersion: 16
+      name: WhirlSlam
+      takeName: Take 001
+      firstFrame: 390
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FullBodySkin
+        weight: 1
+      - path: FullBodySkin/Body
+        weight: 1
+      - path: FullBodySkin/Head
+        weight: 1
+      - path: FullBodySkin/LeftFoot
+        weight: 1
+      - path: FullBodySkin/LeftHand
+        weight: 1
+      - path: FullBodySkin/LeftLowerArm
+        weight: 1
+      - path: FullBodySkin/LeftLowerLeg
+        weight: 1
+      - path: FullBodySkin/LeftUpperArm
+        weight: 1
+      - path: FullBodySkin/LeftUpperLeg
+        weight: 1
+      - path: FullBodySkin/RightFoot
+        weight: 1
+      - path: FullBodySkin/RIghtHand
+        weight: 1
+      - path: FullBodySkin/RightLoweArm
+        weight: 1
+      - path: FullBodySkin/RightLowerLeg
+        weight: 1
+      - path: FullBodySkin/RightUpperArm
+        weight: 1
+      - path: FullBodySkin/RightUpperLeg
+        weight: 1
+      - path: HipUpper
+        weight: 1
+      - path: HipUpper/HipLower
+        weight: 1
+      - path: HipUpper/HipLower/LeftLeg
+        weight: 1
+      - path: HipUpper/HipLower/LeftLeg/LeftKnee
+        weight: 1
+      - path: HipUpper/HipLower/LeftLeg/LeftKnee/LeftAnkle
+        weight: 1
+      - path: HipUpper/HipLower/LeftLeg/LeftKnee/LeftAnkle/LeftFoot 1
+        weight: 1
+      - path: HipUpper/HipLower/RightLeg
+        weight: 1
+      - path: HipUpper/HipLower/RightLeg/RightKnee
+        weight: 1
+      - path: HipUpper/HipLower/RightLeg/RightKnee/RightAnkle
+        weight: 1
+      - path: HipUpper/HipLower/RightLeg/RightKnee/RightAnkle/RightFoot 1
+        weight: 1
+      - path: HipUpper/Waist
+        weight: 1
+      - path: HipUpper/Waist/Chest
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder/LeftArm/LeftElbow
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder/LeftArm/LeftElbow/LeftWrist
+        weight: 1
+      - path: HipUpper/Waist/Chest/LeftShoulder/LeftArm/LeftElbow/LeftWrist/LeftHand
+          1
+        weight: 1
+      - path: HipUpper/Waist/Chest/Neck
+        weight: 1
+      - path: HipUpper/Waist/Chest/Neck/Head 1
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder/RightArm/RightElbow
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder/RightArm/RightElbow/RightWrist
+        weight: 1
+      - path: HipUpper/Waist/Chest/RightShoulder/RightArm/RightElbow/RightWrist/RightHand
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 55
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: HipUpper
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

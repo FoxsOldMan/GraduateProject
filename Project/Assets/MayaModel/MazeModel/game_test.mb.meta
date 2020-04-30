@@ -1,0 +1,1166 @@
+fileFormatVersion: 2
+guid: 827ff930bbacf364faf9f8a5cc4d98eb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: door1
+    100002: door2
+    100004: front1
+    100006: //RootNode
+    100008: ground
+    100010: group
+    100012: group39
+    100014: group40
+    100016: group41
+    100018: group42
+    100020: group43
+    100022: group44
+    100024: group45
+    100026: group46
+    100028: group47
+    100030: group48
+    100032: group49
+    100034: group50
+    100036: group51
+    100038: group52
+    100040: group53
+    100042: group54
+    100044: group55
+    100046: group56
+    100048: group57
+    100050: group58
+    100052: group59
+    100054: group60
+    100056: group61
+    100058: group62
+    100060: group63
+    100062: group64
+    100064: group65
+    100066: group66
+    100068: monster1
+    100070: monster2
+    100072: pasted__group
+    100074: pasted__group11
+    100076: pasted__group11 1
+    100078: pasted__group12
+    100080: pasted__group12 1
+    100082: pasted__group12 2
+    100084: pasted__group13
+    100086: pasted__group14
+    100088: pasted__group14 1
+    100090: pasted__group16
+    100092: pasted__group16 1
+    100094: pasted__group18
+    100096: pasted__group19
+    100098: pasted__group2
+    100100: pasted__group20
+    100102: pasted__group20 1
+    100104: pasted__group21
+    100106: pasted__group23
+    100108: pasted__group24
+    100110: pasted__group24 1
+    100112: pasted__group26
+    100114: pasted__group28
+    100116: pasted__group31
+    100118: pasted__group31 1
+    100120: pasted__group31 2
+    100122: pasted__group31 3
+    100124: pasted__group34
+    100126: pasted__group37
+    100128: pasted__group37 1
+    100130: pasted__group37 2
+    100132: pasted__group37 3
+    100134: pasted__group37 4
+    100136: pasted__group39
+    100138: pasted__group4
+    100140: pasted__group40
+    100142: pasted__group40 1
+    100144: pasted__group40 2
+    100146: pasted__group41
+    100148: pasted__group43
+    100150: pasted__group45
+    100152: pasted__group47
+    100154: pasted__group49
+    100156: pasted__group50
+    100158: pasted__group50 1
+    100160: pasted__group51
+    100162: pasted__group54
+    100164: pasted__group59
+    100166: pasted__group63
+    100168: pasted__group64
+    100170: pasted__group65
+    100172: pasted__group65 1
+    100174: pasted__group66
+    100176: pasted__group7
+    100178: pasted__group8
+    100180: pasted__nurbsPlane1
+    100182: pasted__pasted__group11
+    100184: pasted__pasted__group11 1
+    100186: pasted__pasted__group11 2
+    100188: pasted__pasted__group11 3
+    100190: pasted__pasted__group11 4
+    100192: pasted__pasted__group12
+    100194: pasted__pasted__group12 1
+    100196: pasted__pasted__group12 2
+    100198: pasted__pasted__group12 3
+    100200: pasted__pasted__group12 4
+    100202: pasted__pasted__group12 5
+    100204: pasted__pasted__group12 6
+    100206: pasted__pasted__group13
+    100208: pasted__pasted__group14
+    100210: pasted__pasted__group14 1
+    100212: pasted__pasted__group16
+    100214: pasted__pasted__group18
+    100216: pasted__pasted__group19
+    100218: pasted__pasted__group2
+    100220: pasted__pasted__group20
+    100222: pasted__pasted__group20 1
+    100224: pasted__pasted__group20 2
+    100226: pasted__pasted__group20 3
+    100228: pasted__pasted__group20 4
+    100230: pasted__pasted__group21
+    100232: pasted__pasted__group21 1
+    100234: pasted__pasted__group24
+    100236: pasted__pasted__group26
+    100238: pasted__pasted__group31
+    100240: pasted__pasted__group34
+    100242: pasted__pasted__group37
+    100244: pasted__pasted__group37 1
+    100246: pasted__pasted__group39
+    100248: pasted__pasted__group39 1
+    100250: pasted__pasted__group39 2
+    100252: pasted__pasted__group40
+    100254: pasted__pasted__group41
+    100256: pasted__pasted__group41 1
+    100258: pasted__pasted__group43
+    100260: pasted__pasted__group50
+    100262: pasted__pasted__group54
+    100264: pasted__pasted__group65
+    100266: pasted__pasted__group7
+    100268: pasted__pasted__pasted__group11
+    100270: pasted__pasted__pasted__group11 1
+    100272: pasted__pasted__pasted__group11 2
+    100274: pasted__pasted__pasted__group11 3
+    100276: pasted__pasted__pasted__group11 4
+    100278: pasted__pasted__pasted__group11 5
+    100280: pasted__pasted__pasted__group11 6
+    100282: pasted__pasted__pasted__group11 7
+    100284: pasted__pasted__pasted__group12
+    100286: pasted__pasted__pasted__group12 1
+    100288: pasted__pasted__pasted__group12 2
+    100290: pasted__pasted__pasted__group12 3
+    100292: pasted__pasted__pasted__group13
+    100294: pasted__pasted__pasted__group14
+    100296: pasted__pasted__pasted__group14 1
+    100298: pasted__pasted__pasted__group14 2
+    100300: pasted__pasted__pasted__group14 3
+    100302: pasted__pasted__pasted__group14 4
+    100304: pasted__pasted__pasted__group16
+    100306: pasted__pasted__pasted__group19
+    100308: pasted__pasted__pasted__group19 1
+    100310: pasted__pasted__pasted__group2
+    100312: pasted__pasted__pasted__group20
+    100314: pasted__pasted__pasted__group20 1
+    100316: pasted__pasted__pasted__group21
+    100318: pasted__pasted__pasted__group24
+    100320: pasted__pasted__pasted__group26
+    100322: pasted__pasted__pasted__group31
+    100324: pasted__pasted__pasted__group31 1
+    100326: pasted__pasted__pasted__group37
+    100328: pasted__pasted__pasted__group37 1
+    100330: pasted__pasted__pasted__group37 2
+    100332: pasted__pasted__pasted__group39
+    100334: pasted__pasted__pasted__group41
+    100336: pasted__pasted__pasted__group50
+    100338: pasted__pasted__pasted__group7
+    100340: pasted__pasted__pasted__pasted__group11
+    100342: pasted__pasted__pasted__pasted__group11 1
+    100344: pasted__pasted__pasted__pasted__group11 2
+    100346: pasted__pasted__pasted__pasted__group11 3
+    100348: pasted__pasted__pasted__pasted__group11 4
+    100350: pasted__pasted__pasted__pasted__group12
+    100352: pasted__pasted__pasted__pasted__group12 1
+    100354: pasted__pasted__pasted__pasted__group12 2
+    100356: pasted__pasted__pasted__pasted__group12 3
+    100358: pasted__pasted__pasted__pasted__group12 4
+    100360: pasted__pasted__pasted__pasted__group12 5
+    100362: pasted__pasted__pasted__pasted__group12 6
+    100364: pasted__pasted__pasted__pasted__group12 7
+    100366: pasted__pasted__pasted__pasted__group13
+    100368: pasted__pasted__pasted__pasted__group13 1
+    100370: pasted__pasted__pasted__pasted__group14
+    100372: pasted__pasted__pasted__pasted__group14 1
+    100374: pasted__pasted__pasted__pasted__group19
+    100376: pasted__pasted__pasted__pasted__group2
+    100378: pasted__pasted__pasted__pasted__group20
+    100380: pasted__pasted__pasted__pasted__group20 1
+    100382: pasted__pasted__pasted__pasted__group20 2
+    100384: pasted__pasted__pasted__pasted__group21
+    100386: pasted__pasted__pasted__pasted__group31
+    100388: pasted__pasted__pasted__pasted__group37
+    100390: pasted__pasted__pasted__pasted__group41
+    100392: pasted__pasted__pasted__pasted__group7
+    100394: pasted__pasted__pasted__pasted__pasted__group11
+    100396: pasted__pasted__pasted__pasted__pasted__group11 1
+    100398: pasted__pasted__pasted__pasted__pasted__group11 2
+    100400: pasted__pasted__pasted__pasted__pasted__group11 3
+    100402: pasted__pasted__pasted__pasted__pasted__group11 4
+    100404: pasted__pasted__pasted__pasted__pasted__group11 5
+    100406: pasted__pasted__pasted__pasted__pasted__group11 6
+    100408: pasted__pasted__pasted__pasted__pasted__group11 7
+    100410: pasted__pasted__pasted__pasted__pasted__group12
+    100412: pasted__pasted__pasted__pasted__pasted__group12 1
+    100414: pasted__pasted__pasted__pasted__pasted__group12 2
+    100416: pasted__pasted__pasted__pasted__pasted__group13
+    100418: pasted__pasted__pasted__pasted__pasted__group14
+    100420: pasted__pasted__pasted__pasted__pasted__group14 1
+    100422: pasted__pasted__pasted__pasted__pasted__group14 2
+    100424: pasted__pasted__pasted__pasted__pasted__group19
+    100426: pasted__pasted__pasted__pasted__pasted__group2
+    100428: pasted__pasted__pasted__pasted__pasted__group20
+    100430: pasted__pasted__pasted__pasted__pasted__group31
+    100432: pasted__pasted__pasted__pasted__pasted__group7
+    100434: pasted__pasted__pasted__pasted__pasted__group7 1
+    100436: pasted__pasted__pasted__pasted__pasted__pasted__group11
+    100438: pasted__pasted__pasted__pasted__pasted__pasted__group11 1
+    100440: pasted__pasted__pasted__pasted__pasted__pasted__group11 2
+    100442: pasted__pasted__pasted__pasted__pasted__pasted__group12
+    100444: pasted__pasted__pasted__pasted__pasted__pasted__group12 1
+    100446: pasted__pasted__pasted__pasted__pasted__pasted__group12 2
+    100448: pasted__pasted__pasted__pasted__pasted__pasted__group13
+    100450: pasted__pasted__pasted__pasted__pasted__pasted__group14
+    100452: pasted__pasted__pasted__pasted__pasted__pasted__group2
+    100454: pasted__pasted__pasted__pasted__pasted__pasted__group2 1
+    100456: pasted__pasted__pasted__pasted__pasted__pasted__group20
+    100458: pasted__pasted__pasted__pasted__pasted__pasted__group7
+    100460: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group11
+    100462: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group11 1
+    100464: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group11 2
+    100466: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group12
+    100468: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group14
+    100470: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group2
+    100472: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group7
+    100474: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group11
+    100476: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group12
+    100478: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group2
+    100480: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group11
+    100482: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube47
+    100484: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube39
+    100486: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube47
+    100488: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube39
+    100490: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube47
+    100492: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube47
+      1
+    100494: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube47
+      2
+    100496: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube39
+    100498: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube39 1
+    100500: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube39 2
+    100502: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube47
+    100504: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube47 1
+    100506: pasted__pasted__pasted__pasted__pasted__pasted__pCube39
+    100508: pasted__pasted__pasted__pasted__pasted__pasted__pCube39 1
+    100510: pasted__pasted__pasted__pasted__pasted__pasted__pCube39 2
+    100512: pasted__pasted__pasted__pasted__pasted__pasted__pCube39 3
+    100514: pasted__pasted__pasted__pasted__pasted__pasted__pCube47
+    100516: pasted__pasted__pasted__pasted__pasted__pasted__pCube47 1
+    100518: pasted__pasted__pasted__pasted__pasted__pasted__pCube47 2
+    100520: pasted__pasted__pasted__pasted__pasted__pasted__pCube47 3
+    100522: pasted__pasted__pasted__pasted__pasted__pasted__pCube47 4
+    100524: pasted__pasted__pasted__pasted__pasted__pCube39
+    100526: pasted__pasted__pasted__pasted__pasted__pCube39 1
+    100528: pasted__pasted__pasted__pasted__pasted__pCube39 2
+    100530: pasted__pasted__pasted__pasted__pasted__pCube47
+    100532: pasted__pasted__pasted__pasted__pasted__pCube47 1
+    100534: pasted__pasted__pasted__pasted__pCube39
+    100536: pasted__pasted__pasted__pasted__pCube39 1
+    100538: pasted__pasted__pasted__pasted__pCube39 2
+    100540: pasted__pasted__pasted__pasted__pCube39 3
+    100542: pasted__pasted__pasted__pasted__pCube39 4
+    100544: pasted__pasted__pasted__pasted__pCube47
+    100546: pasted__pasted__pasted__pasted__pCube47 1
+    100548: pasted__pasted__pasted__pasted__pCube47 2
+    100550: pasted__pasted__pasted__pCube39
+    100552: pasted__pasted__pasted__pCube39 1
+    100554: pasted__pasted__pasted__pCube39 2
+    100556: pasted__pasted__pasted__pCube39 3
+    100558: pasted__pasted__pasted__pCube47
+    100560: pasted__pasted__pasted__pCube47 1
+    100562: pasted__pasted__pasted__pCube47 2
+    100564: pasted__pasted__pasted__pCylinder1
+    100566: pasted__pasted__pCube11
+    100568: pasted__pasted__pCube36
+    100570: pasted__pasted__pCube38
+    100572: pasted__pasted__pCube39
+    100574: pasted__pasted__pCube39 1
+    100576: pasted__pasted__pCube39 2
+    100578: pasted__pasted__pCube47
+    100580: pasted__pasted__pCylinder1
+    100582: pasted__pasted__pCylinder1 1
+    100584: pasted__pasted__pCylinder1 2
+    100586: pasted__pasted__pCylinder1 3
+    100588: pasted__pasted__pCylinder1 4
+    100590: pasted__pCube10
+    100592: pasted__pCube11
+    100594: pasted__pCube11 1
+    100596: pasted__pCube26
+    100598: pasted__pCube36
+    100600: pasted__pCube36 1
+    100602: pasted__pCube38
+    100604: pasted__pCube38 1
+    100606: pasted__pCube38 2
+    100608: pasted__pCube38 3
+    100610: pasted__pCube39
+    100612: pasted__pCube39 1
+    100614: pasted__pCube47
+    100616: pasted__pCube5
+    100618: pasted__pCube51
+    100620: pasted__pCylinder1
+    100622: pasted__pCylinder1 1
+    100624: pasted__pCylinder1 2
+    100626: pasted__pCylinder1 3
+    100628: pasted__pCylinder1 4
+    100630: pasted__pCylinder1 5
+    100632: pasted__pSphere1
+    100634: pCylinder1
+    100636: poison1_floor
+    100638: poison2_floor
+    100640: transform1
+    100642: transform10
+    100644: transform100
+    100646: transform101
+    100648: transform102
+    100650: transform103
+    100652: transform104
+    100654: transform105
+    100656: transform106
+    100658: transform107
+    100660: transform108
+    100662: transform109
+    100664: transform11
+    100666: transform110
+    100668: transform111
+    100670: transform112
+    100672: transform113
+    100674: transform12
+    100676: transform13
+    100678: transform14
+    100680: transform15
+    100682: transform16
+    100684: transform17
+    100686: transform18
+    100688: transform19
+    100690: transform2
+    100692: transform20
+    100694: transform21
+    100696: transform22
+    100698: transform23
+    100700: transform24
+    100702: transform25
+    100704: transform26
+    100706: transform27
+    100708: transform28
+    100710: transform29
+    100712: transform3
+    100714: transform30
+    100716: transform31
+    100718: transform32
+    100720: transform33
+    100722: transform34
+    100724: transform35
+    100726: transform36
+    100728: transform37
+    100730: transform38
+    100732: transform39
+    100734: transform4
+    100736: transform40
+    100738: transform41
+    100740: transform42
+    100742: transform43
+    100744: transform44
+    100746: transform45
+    100748: transform46
+    100750: transform47
+    100752: transform48
+    100754: transform49
+    100756: transform5
+    100758: transform50
+    100760: transform51
+    100762: transform52
+    100764: transform53
+    100766: transform54
+    100768: transform55
+    100770: transform56
+    100772: transform57
+    100774: transform58
+    100776: transform59
+    100778: transform6
+    100780: transform60
+    100782: transform61
+    100784: transform62
+    100786: transform63
+    100788: transform64
+    100790: transform65
+    100792: transform66
+    100794: transform67
+    100796: transform68
+    100798: transform69
+    100800: transform7
+    100802: transform70
+    100804: transform71
+    100806: transform72
+    100808: transform73
+    100810: transform74
+    100812: transform75
+    100814: transform76
+    100816: transform77
+    100818: transform78
+    100820: transform79
+    100822: transform8
+    100824: transform80
+    100826: transform81
+    100828: transform82
+    100830: transform83
+    100832: transform84
+    100834: transform85
+    100836: transform86
+    100838: transform87
+    100840: transform88
+    100842: transform89
+    100844: transform9
+    100846: transform90
+    100848: transform91
+    100850: transform92
+    100852: transform93
+    100854: transform94
+    100856: transform95
+    100858: transform96
+    100860: transform97
+    100862: transform98
+    100864: transform99
+    100866: wall1
+    100868: wall10
+    100870: wall11
+    100872: wall12
+    100874: wall13
+    100876: wall14
+    100878: wall15
+    100880: wall16
+    100882: wall17
+    100884: wall18
+    100886: wall19
+    100888: wall2
+    100890: wall20
+    100892: wall21
+    100894: wall22
+    100896: wall23
+    100898: wall24
+    100900: wall25
+    100902: wall26
+    100904: wall27
+    100906: wall28
+    100908: wall29
+    100910: wall3
+    100912: wall30
+    100914: wall31
+    100916: wall32
+    100918: wall33
+    100920: wall34
+    100922: wall35
+    100924: wall36
+    100926: wall37
+    100928: wall38
+    100930: wall39
+    100932: wall4
+    100934: wall40
+    100936: wall41
+    100938: wall42
+    100940: wall43
+    100942: wall44
+    100944: wall45
+    100946: wall46
+    100948: wall47
+    100950: wall48
+    100952: wall49
+    100954: wall5
+    100956: wall50
+    100958: wall51
+    100960: wall52
+    100962: wall53
+    100964: wall54
+    100966: wall55
+    100968: wall56
+    100970: wall57
+    100972: wall58
+    100974: wall59
+    100976: wall6
+    100978: wall60
+    100980: wall61
+    100982: wall62
+    100984: wall63
+    100986: wall64
+    100988: wall65
+    100990: wall66
+    100992: wall67
+    100994: wall68
+    100996: wall69
+    100998: wall7
+    101000: wall70
+    101002: wall71
+    101004: wall72
+    101006: wall73
+    101008: wall74
+    101010: wall75
+    101012: wall76
+    101014: wall78
+    101016: wall79
+    101018: wall8
+    101020: wall80
+    101022: wall81
+    101024: wall82
+    101026: wall83
+    101028: wall9
+    101030: wall_all
+    400000: door1
+    400002: door2
+    400004: front1
+    400006: //RootNode
+    400008: ground
+    400010: group
+    400012: group39
+    400014: group40
+    400016: group41
+    400018: group42
+    400020: group43
+    400022: group44
+    400024: group45
+    400026: group46
+    400028: group47
+    400030: group48
+    400032: group49
+    400034: group50
+    400036: group51
+    400038: group52
+    400040: group53
+    400042: group54
+    400044: group55
+    400046: group56
+    400048: group57
+    400050: group58
+    400052: group59
+    400054: group60
+    400056: group61
+    400058: group62
+    400060: group63
+    400062: group64
+    400064: group65
+    400066: group66
+    400068: monster1
+    400070: monster2
+    400072: pasted__group
+    400074: pasted__group11
+    400076: pasted__group11 1
+    400078: pasted__group12
+    400080: pasted__group12 1
+    400082: pasted__group12 2
+    400084: pasted__group13
+    400086: pasted__group14
+    400088: pasted__group14 1
+    400090: pasted__group16
+    400092: pasted__group16 1
+    400094: pasted__group18
+    400096: pasted__group19
+    400098: pasted__group2
+    400100: pasted__group20
+    400102: pasted__group20 1
+    400104: pasted__group21
+    400106: pasted__group23
+    400108: pasted__group24
+    400110: pasted__group24 1
+    400112: pasted__group26
+    400114: pasted__group28
+    400116: pasted__group31
+    400118: pasted__group31 1
+    400120: pasted__group31 2
+    400122: pasted__group31 3
+    400124: pasted__group34
+    400126: pasted__group37
+    400128: pasted__group37 1
+    400130: pasted__group37 2
+    400132: pasted__group37 3
+    400134: pasted__group37 4
+    400136: pasted__group39
+    400138: pasted__group4
+    400140: pasted__group40
+    400142: pasted__group40 1
+    400144: pasted__group40 2
+    400146: pasted__group41
+    400148: pasted__group43
+    400150: pasted__group45
+    400152: pasted__group47
+    400154: pasted__group49
+    400156: pasted__group50
+    400158: pasted__group50 1
+    400160: pasted__group51
+    400162: pasted__group54
+    400164: pasted__group59
+    400166: pasted__group63
+    400168: pasted__group64
+    400170: pasted__group65
+    400172: pasted__group65 1
+    400174: pasted__group66
+    400176: pasted__group7
+    400178: pasted__group8
+    400180: pasted__nurbsPlane1
+    400182: pasted__pasted__group11
+    400184: pasted__pasted__group11 1
+    400186: pasted__pasted__group11 2
+    400188: pasted__pasted__group11 3
+    400190: pasted__pasted__group11 4
+    400192: pasted__pasted__group12
+    400194: pasted__pasted__group12 1
+    400196: pasted__pasted__group12 2
+    400198: pasted__pasted__group12 3
+    400200: pasted__pasted__group12 4
+    400202: pasted__pasted__group12 5
+    400204: pasted__pasted__group12 6
+    400206: pasted__pasted__group13
+    400208: pasted__pasted__group14
+    400210: pasted__pasted__group14 1
+    400212: pasted__pasted__group16
+    400214: pasted__pasted__group18
+    400216: pasted__pasted__group19
+    400218: pasted__pasted__group2
+    400220: pasted__pasted__group20
+    400222: pasted__pasted__group20 1
+    400224: pasted__pasted__group20 2
+    400226: pasted__pasted__group20 3
+    400228: pasted__pasted__group20 4
+    400230: pasted__pasted__group21
+    400232: pasted__pasted__group21 1
+    400234: pasted__pasted__group24
+    400236: pasted__pasted__group26
+    400238: pasted__pasted__group31
+    400240: pasted__pasted__group34
+    400242: pasted__pasted__group37
+    400244: pasted__pasted__group37 1
+    400246: pasted__pasted__group39
+    400248: pasted__pasted__group39 1
+    400250: pasted__pasted__group39 2
+    400252: pasted__pasted__group40
+    400254: pasted__pasted__group41
+    400256: pasted__pasted__group41 1
+    400258: pasted__pasted__group43
+    400260: pasted__pasted__group50
+    400262: pasted__pasted__group54
+    400264: pasted__pasted__group65
+    400266: pasted__pasted__group7
+    400268: pasted__pasted__pasted__group11
+    400270: pasted__pasted__pasted__group11 1
+    400272: pasted__pasted__pasted__group11 2
+    400274: pasted__pasted__pasted__group11 3
+    400276: pasted__pasted__pasted__group11 4
+    400278: pasted__pasted__pasted__group11 5
+    400280: pasted__pasted__pasted__group11 6
+    400282: pasted__pasted__pasted__group11 7
+    400284: pasted__pasted__pasted__group12
+    400286: pasted__pasted__pasted__group12 1
+    400288: pasted__pasted__pasted__group12 2
+    400290: pasted__pasted__pasted__group12 3
+    400292: pasted__pasted__pasted__group13
+    400294: pasted__pasted__pasted__group14
+    400296: pasted__pasted__pasted__group14 1
+    400298: pasted__pasted__pasted__group14 2
+    400300: pasted__pasted__pasted__group14 3
+    400302: pasted__pasted__pasted__group14 4
+    400304: pasted__pasted__pasted__group16
+    400306: pasted__pasted__pasted__group19
+    400308: pasted__pasted__pasted__group19 1
+    400310: pasted__pasted__pasted__group2
+    400312: pasted__pasted__pasted__group20
+    400314: pasted__pasted__pasted__group20 1
+    400316: pasted__pasted__pasted__group21
+    400318: pasted__pasted__pasted__group24
+    400320: pasted__pasted__pasted__group26
+    400322: pasted__pasted__pasted__group31
+    400324: pasted__pasted__pasted__group31 1
+    400326: pasted__pasted__pasted__group37
+    400328: pasted__pasted__pasted__group37 1
+    400330: pasted__pasted__pasted__group37 2
+    400332: pasted__pasted__pasted__group39
+    400334: pasted__pasted__pasted__group41
+    400336: pasted__pasted__pasted__group50
+    400338: pasted__pasted__pasted__group7
+    400340: pasted__pasted__pasted__pasted__group11
+    400342: pasted__pasted__pasted__pasted__group11 1
+    400344: pasted__pasted__pasted__pasted__group11 2
+    400346: pasted__pasted__pasted__pasted__group11 3
+    400348: pasted__pasted__pasted__pasted__group11 4
+    400350: pasted__pasted__pasted__pasted__group12
+    400352: pasted__pasted__pasted__pasted__group12 1
+    400354: pasted__pasted__pasted__pasted__group12 2
+    400356: pasted__pasted__pasted__pasted__group12 3
+    400358: pasted__pasted__pasted__pasted__group12 4
+    400360: pasted__pasted__pasted__pasted__group12 5
+    400362: pasted__pasted__pasted__pasted__group12 6
+    400364: pasted__pasted__pasted__pasted__group12 7
+    400366: pasted__pasted__pasted__pasted__group13
+    400368: pasted__pasted__pasted__pasted__group13 1
+    400370: pasted__pasted__pasted__pasted__group14
+    400372: pasted__pasted__pasted__pasted__group14 1
+    400374: pasted__pasted__pasted__pasted__group19
+    400376: pasted__pasted__pasted__pasted__group2
+    400378: pasted__pasted__pasted__pasted__group20
+    400380: pasted__pasted__pasted__pasted__group20 1
+    400382: pasted__pasted__pasted__pasted__group20 2
+    400384: pasted__pasted__pasted__pasted__group21
+    400386: pasted__pasted__pasted__pasted__group31
+    400388: pasted__pasted__pasted__pasted__group37
+    400390: pasted__pasted__pasted__pasted__group41
+    400392: pasted__pasted__pasted__pasted__group7
+    400394: pasted__pasted__pasted__pasted__pasted__group11
+    400396: pasted__pasted__pasted__pasted__pasted__group11 1
+    400398: pasted__pasted__pasted__pasted__pasted__group11 2
+    400400: pasted__pasted__pasted__pasted__pasted__group11 3
+    400402: pasted__pasted__pasted__pasted__pasted__group11 4
+    400404: pasted__pasted__pasted__pasted__pasted__group11 5
+    400406: pasted__pasted__pasted__pasted__pasted__group11 6
+    400408: pasted__pasted__pasted__pasted__pasted__group11 7
+    400410: pasted__pasted__pasted__pasted__pasted__group12
+    400412: pasted__pasted__pasted__pasted__pasted__group12 1
+    400414: pasted__pasted__pasted__pasted__pasted__group12 2
+    400416: pasted__pasted__pasted__pasted__pasted__group13
+    400418: pasted__pasted__pasted__pasted__pasted__group14
+    400420: pasted__pasted__pasted__pasted__pasted__group14 1
+    400422: pasted__pasted__pasted__pasted__pasted__group14 2
+    400424: pasted__pasted__pasted__pasted__pasted__group19
+    400426: pasted__pasted__pasted__pasted__pasted__group2
+    400428: pasted__pasted__pasted__pasted__pasted__group20
+    400430: pasted__pasted__pasted__pasted__pasted__group31
+    400432: pasted__pasted__pasted__pasted__pasted__group7
+    400434: pasted__pasted__pasted__pasted__pasted__group7 1
+    400436: pasted__pasted__pasted__pasted__pasted__pasted__group11
+    400438: pasted__pasted__pasted__pasted__pasted__pasted__group11 1
+    400440: pasted__pasted__pasted__pasted__pasted__pasted__group11 2
+    400442: pasted__pasted__pasted__pasted__pasted__pasted__group12
+    400444: pasted__pasted__pasted__pasted__pasted__pasted__group12 1
+    400446: pasted__pasted__pasted__pasted__pasted__pasted__group12 2
+    400448: pasted__pasted__pasted__pasted__pasted__pasted__group13
+    400450: pasted__pasted__pasted__pasted__pasted__pasted__group14
+    400452: pasted__pasted__pasted__pasted__pasted__pasted__group2
+    400454: pasted__pasted__pasted__pasted__pasted__pasted__group2 1
+    400456: pasted__pasted__pasted__pasted__pasted__pasted__group20
+    400458: pasted__pasted__pasted__pasted__pasted__pasted__group7
+    400460: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group11
+    400462: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group11 1
+    400464: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group11 2
+    400466: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group12
+    400468: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group14
+    400470: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group2
+    400472: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group7
+    400474: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group11
+    400476: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group12
+    400478: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group2
+    400480: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group11
+    400482: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube47
+    400484: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube39
+    400486: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube47
+    400488: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube39
+    400490: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube47
+    400492: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube47
+      1
+    400494: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube47
+      2
+    400496: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube39
+    400498: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube39 1
+    400500: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube39 2
+    400502: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube47
+    400504: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube47 1
+    400506: pasted__pasted__pasted__pasted__pasted__pasted__pCube39
+    400508: pasted__pasted__pasted__pasted__pasted__pasted__pCube39 1
+    400510: pasted__pasted__pasted__pasted__pasted__pasted__pCube39 2
+    400512: pasted__pasted__pasted__pasted__pasted__pasted__pCube39 3
+    400514: pasted__pasted__pasted__pasted__pasted__pasted__pCube47
+    400516: pasted__pasted__pasted__pasted__pasted__pasted__pCube47 1
+    400518: pasted__pasted__pasted__pasted__pasted__pasted__pCube47 2
+    400520: pasted__pasted__pasted__pasted__pasted__pasted__pCube47 3
+    400522: pasted__pasted__pasted__pasted__pasted__pasted__pCube47 4
+    400524: pasted__pasted__pasted__pasted__pasted__pCube39
+    400526: pasted__pasted__pasted__pasted__pasted__pCube39 1
+    400528: pasted__pasted__pasted__pasted__pasted__pCube39 2
+    400530: pasted__pasted__pasted__pasted__pasted__pCube47
+    400532: pasted__pasted__pasted__pasted__pasted__pCube47 1
+    400534: pasted__pasted__pasted__pasted__pCube39
+    400536: pasted__pasted__pasted__pasted__pCube39 1
+    400538: pasted__pasted__pasted__pasted__pCube39 2
+    400540: pasted__pasted__pasted__pasted__pCube39 3
+    400542: pasted__pasted__pasted__pasted__pCube39 4
+    400544: pasted__pasted__pasted__pasted__pCube47
+    400546: pasted__pasted__pasted__pasted__pCube47 1
+    400548: pasted__pasted__pasted__pasted__pCube47 2
+    400550: pasted__pasted__pasted__pCube39
+    400552: pasted__pasted__pasted__pCube39 1
+    400554: pasted__pasted__pasted__pCube39 2
+    400556: pasted__pasted__pasted__pCube39 3
+    400558: pasted__pasted__pasted__pCube47
+    400560: pasted__pasted__pasted__pCube47 1
+    400562: pasted__pasted__pasted__pCube47 2
+    400564: pasted__pasted__pasted__pCylinder1
+    400566: pasted__pasted__pCube11
+    400568: pasted__pasted__pCube36
+    400570: pasted__pasted__pCube38
+    400572: pasted__pasted__pCube39
+    400574: pasted__pasted__pCube39 1
+    400576: pasted__pasted__pCube39 2
+    400578: pasted__pasted__pCube47
+    400580: pasted__pasted__pCylinder1
+    400582: pasted__pasted__pCylinder1 1
+    400584: pasted__pasted__pCylinder1 2
+    400586: pasted__pasted__pCylinder1 3
+    400588: pasted__pasted__pCylinder1 4
+    400590: pasted__pCube10
+    400592: pasted__pCube11
+    400594: pasted__pCube11 1
+    400596: pasted__pCube26
+    400598: pasted__pCube36
+    400600: pasted__pCube36 1
+    400602: pasted__pCube38
+    400604: pasted__pCube38 1
+    400606: pasted__pCube38 2
+    400608: pasted__pCube38 3
+    400610: pasted__pCube39
+    400612: pasted__pCube39 1
+    400614: pasted__pCube47
+    400616: pasted__pCube5
+    400618: pasted__pCube51
+    400620: pasted__pCylinder1
+    400622: pasted__pCylinder1 1
+    400624: pasted__pCylinder1 2
+    400626: pasted__pCylinder1 3
+    400628: pasted__pCylinder1 4
+    400630: pasted__pCylinder1 5
+    400632: pasted__pSphere1
+    400634: pCylinder1
+    400636: poison1_floor
+    400638: poison2_floor
+    400640: transform1
+    400642: transform10
+    400644: transform100
+    400646: transform101
+    400648: transform102
+    400650: transform103
+    400652: transform104
+    400654: transform105
+    400656: transform106
+    400658: transform107
+    400660: transform108
+    400662: transform109
+    400664: transform11
+    400666: transform110
+    400668: transform111
+    400670: transform112
+    400672: transform113
+    400674: transform12
+    400676: transform13
+    400678: transform14
+    400680: transform15
+    400682: transform16
+    400684: transform17
+    400686: transform18
+    400688: transform19
+    400690: transform2
+    400692: transform20
+    400694: transform21
+    400696: transform22
+    400698: transform23
+    400700: transform24
+    400702: transform25
+    400704: transform26
+    400706: transform27
+    400708: transform28
+    400710: transform29
+    400712: transform3
+    400714: transform30
+    400716: transform31
+    400718: transform32
+    400720: transform33
+    400722: transform34
+    400724: transform35
+    400726: transform36
+    400728: transform37
+    400730: transform38
+    400732: transform39
+    400734: transform4
+    400736: transform40
+    400738: transform41
+    400740: transform42
+    400742: transform43
+    400744: transform44
+    400746: transform45
+    400748: transform46
+    400750: transform47
+    400752: transform48
+    400754: transform49
+    400756: transform5
+    400758: transform50
+    400760: transform51
+    400762: transform52
+    400764: transform53
+    400766: transform54
+    400768: transform55
+    400770: transform56
+    400772: transform57
+    400774: transform58
+    400776: transform59
+    400778: transform6
+    400780: transform60
+    400782: transform61
+    400784: transform62
+    400786: transform63
+    400788: transform64
+    400790: transform65
+    400792: transform66
+    400794: transform67
+    400796: transform68
+    400798: transform69
+    400800: transform7
+    400802: transform70
+    400804: transform71
+    400806: transform72
+    400808: transform73
+    400810: transform74
+    400812: transform75
+    400814: transform76
+    400816: transform77
+    400818: transform78
+    400820: transform79
+    400822: transform8
+    400824: transform80
+    400826: transform81
+    400828: transform82
+    400830: transform83
+    400832: transform84
+    400834: transform85
+    400836: transform86
+    400838: transform87
+    400840: transform88
+    400842: transform89
+    400844: transform9
+    400846: transform90
+    400848: transform91
+    400850: transform92
+    400852: transform93
+    400854: transform94
+    400856: transform95
+    400858: transform96
+    400860: transform97
+    400862: transform98
+    400864: transform99
+    400866: wall1
+    400868: wall10
+    400870: wall11
+    400872: wall12
+    400874: wall13
+    400876: wall14
+    400878: wall15
+    400880: wall16
+    400882: wall17
+    400884: wall18
+    400886: wall19
+    400888: wall2
+    400890: wall20
+    400892: wall21
+    400894: wall22
+    400896: wall23
+    400898: wall24
+    400900: wall25
+    400902: wall26
+    400904: wall27
+    400906: wall28
+    400908: wall29
+    400910: wall3
+    400912: wall30
+    400914: wall31
+    400916: wall32
+    400918: wall33
+    400920: wall34
+    400922: wall35
+    400924: wall36
+    400926: wall37
+    400928: wall38
+    400930: wall39
+    400932: wall4
+    400934: wall40
+    400936: wall41
+    400938: wall42
+    400940: wall43
+    400942: wall44
+    400944: wall45
+    400946: wall46
+    400948: wall47
+    400950: wall48
+    400952: wall49
+    400954: wall5
+    400956: wall50
+    400958: wall51
+    400960: wall52
+    400962: wall53
+    400964: wall54
+    400966: wall55
+    400968: wall56
+    400970: wall57
+    400972: wall58
+    400974: wall59
+    400976: wall6
+    400978: wall60
+    400980: wall61
+    400982: wall62
+    400984: wall63
+    400986: wall64
+    400988: wall65
+    400990: wall66
+    400992: wall67
+    400994: wall68
+    400996: wall69
+    400998: wall7
+    401000: wall70
+    401002: wall71
+    401004: wall72
+    401006: wall73
+    401008: wall74
+    401010: wall75
+    401012: wall76
+    401014: wall78
+    401016: wall79
+    401018: wall8
+    401020: wall80
+    401022: wall81
+    401024: wall82
+    401026: wall83
+    401028: wall9
+    401030: wall_all
+    2000000: front1
+    2100000: lambert4
+    2100002: shadingMap6
+    2100004: lambert6
+    2100006: pasted__phongE1
+    2100008: phongE1
+    2300000: door2
+    2300002: ground
+    2300004: monster1
+    2300006: pasted__pasted__pasted__pCylinder1
+    2300008: pasted__pasted__pCylinder1
+    2300010: pasted__pasted__pCylinder1 1
+    2300012: pasted__pasted__pCylinder1 2
+    2300014: pasted__pasted__pCylinder1 3
+    2300016: pasted__pCylinder1
+    2300018: pasted__pSphere1
+    2300020: wall_all
+    3300000: door2
+    3300002: ground
+    3300004: monster1
+    3300006: pasted__pasted__pasted__pCylinder1
+    3300008: pasted__pasted__pCylinder1
+    3300010: pasted__pasted__pCylinder1 1
+    3300012: pasted__pasted__pCylinder1 2
+    3300014: pasted__pasted__pCylinder1 3
+    3300016: pasted__pCylinder1
+    3300018: pasted__pSphere1
+    3300020: wall_all
+    4300000: ground
+    4300002: monster1
+    4300004: pasted__pSphere1
+    4300006: wall_all
+    4300008: pasted__pCylinder1
+    4300010: pasted__pasted__pCylinder1
+    4300012: pasted__pasted__pCylinder1
+    4300014: pasted__pasted__pCylinder1
+    4300016: pasted__pasted__pCylinder1
+    4300018: pasted__pasted__pasted__pCylinder1
+    4300020: door2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
